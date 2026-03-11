@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Monu Kumar | UPSC Aspirant</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#f5f5f5;
+}
+
+header{
+background:#1e3c72;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+.profile{
+text-align:center;
+margin-top:-60px;
+}
+
+.profile img{
+width:180px;
+border-radius:50%;
+border:6px solid white;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+h2{
+color:#1e3c72;
+}
+
+.btn{
+display:inline-block;
+padding:10px 20px;
+background:#1e3c72;
+color:white;
+border-radius:5px;
+text-decoration:none;
+}
+
+footer{
+background:#1e3c72;
+color:white;
+text-align:center;
+padding:10px;
+margin-top:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Monu Kumar</h1>
+<p>UPSC Aspirant | Student</p>
+</header>
+
+<div class="profile">
+<img src="monu.jpg">
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>About Me</h2>
+<p>
+My name is <b>Monu Kumar</b>. I am from <b>Bundi, Rajasthan</b>.
+I have completed my <b>BSTC</b> and <b>Bachelor of Arts (B.A)</b>.
+Currently I am preparing for the <b>UPSC Civil Services Examination</b>
+with the goal of serving the country as a civil servant.
+</p>
+</div>
+
+<div class="card">
+<h2>Education</h2>
+<p>BSTC – Completed</p>
+<p>Bachelor of Arts (B.A) – Completed</p>
+</div>
+
+<div class="card">
+<h2>Career Goal</h2>
+<p>
+My dream is to clear the UPSC examination and serve India
+through Civil Services.
+</p>
+</div>
+
+<div class="card">
+<h2>Social Media</h2>
+<a class="btn" href="https://www.instagram.com/monumeenau" target="_blank">
+Visit Instagram
+</a>
+</div>
+
+</div>
+
+<footer>
+© 2026 Monu Kumar | Bundi Rajasthan
+</footer>
+
+</body>
+</html>
